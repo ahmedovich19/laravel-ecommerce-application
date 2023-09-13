@@ -1,4 +1,4 @@
-## About laravel ecommerce application
+## laravel ecommerce application
 
 a comprehensive web-based application developed using the Laravel framework, designed to establish and 
 manage their online stores efficiently. This ecommerce application offers a wide range of features, including 
